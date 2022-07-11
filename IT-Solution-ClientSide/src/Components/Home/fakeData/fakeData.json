@@ -1,0 +1,26 @@
+[{
+        "title":"Apps",
+        "description":"we provide dynamic feature mobile apps which include ISO and andriod.",
+        "icon":"fas fa-tablet",
+        "price":"15000"
+
+    },
+    {
+        "title":"Web",
+        "description":"we can work with making user friendly web project  ",
+        "icon":"far fa-browser",
+        "price":"20000"
+    },
+    {
+        "title":"Computer",
+        "description":"Any kind of computer service you can contact with us ",
+        "icon":"fas fa-tv",
+        "price":"25000"
+    },
+    {
+        "title":"Hardware solution",
+        "description":"Our more relalible  service is hardware replace and more efficent making that",
+        "icon":"fal fa-microchip",
+        "price":"18000"
+    }
+]

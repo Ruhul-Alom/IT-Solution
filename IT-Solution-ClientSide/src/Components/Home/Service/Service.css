@@ -1,0 +1,42 @@
+.service-section{
+    background-color:#211F24 ;
+}
+.service-section-title{
+    margin:50px auto;
+    padding-top: 40px;
+    text-align: center;
+}
+.service-section-title h2{
+    font-family: sans-serif;
+    letter-spacing:1px ;
+
+}
+.service-section-title h2.title span {
+	color: #f70037;
+}
+.service-section-title h2.title{
+    color:#fff;
+    text-transform: uppercase;
+}
+/* .service-section-title h1:after{
+    content:'';
+    background-color: #fff;
+    display: block;
+    height: 3px;
+    width: 150px;
+    margin: 10px auto;
+} */
+.icon{
+  font-size: 40px;  
+  margin:20px auto;
+  padding: 20px;
+  height: 80px;
+  width: 80px;
+  border:1px solid white ;
+  border-radius: 50%;
+}
+.service-section .col-md-3:hover{
+    margin-top: 40px;
+	background-color: #24252a;
+	box-shadow: 0 0 10px 0 rgba(0,0,0,.1); 
+}
